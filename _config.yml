@@ -6,3 +6,14 @@ url: https://teachingbusiness.github.io
 
 aux_links:
   Template Repository: https://github.com/teachingbusiness/teachingbusiness.github.io
+
+defaults:
+  - scope:
+      path: "content" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "assets/img"
+    values: 
+      image: true
