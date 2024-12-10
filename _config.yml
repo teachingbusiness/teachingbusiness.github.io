@@ -99,6 +99,23 @@ nav_enabled: true
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_insensitive
 
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# External navigation links
+nav_external_links:
+  - title: Pitt Canvas
+    url: https://canvas.pitt.edu/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Pitt Library 
+    url: https://library.pitt.edu/ 
+    hide_icon: false 
+    opens_in_new_tab: true 
+
 # collections
 collections:
   strategy:
