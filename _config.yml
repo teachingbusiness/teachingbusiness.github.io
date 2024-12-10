@@ -92,6 +92,12 @@ search:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "11.4.1"
 
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_insensitive
 
 # collections
 collections:
