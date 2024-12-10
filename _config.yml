@@ -91,3 +91,20 @@ search:
   # Version of mermaid library - last updates: 2024-11-27
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "11.4.1"
+
+
+# collections
+collections:
+  strategy:
+    output: true
+  comp_think:
+    output: true 
+
+just_the_docs:
+  collections:
+    strategy:
+      name: 'Strategic Management'
+      nav_fold: true
+    comp_think:
+      name: 'Computational Thinking'
+      nav_fold: true
