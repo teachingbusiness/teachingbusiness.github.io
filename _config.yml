@@ -1,8 +1,171 @@
-title: Just the Docs Template
+title: Teaching Business
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://teachingbusiness.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/teachingbusiness/teachingbusiness.github.io
+
+defaults:
+  - scope:
+      path: "content" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "assets/images"
+    values: 
+      image: true
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
+
+  # Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/Shield_UnivPittsburgh_3color.png"
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub Repo":
+    - "//github.com/teachingbusiness/teachingbusiness.github.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: 'k'
+
+  mermaid:
+  # Version of mermaid library - last updates: 2024-11-27
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.4.1"
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_insensitive
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# External navigation links
+nav_external_links:
+  - title: Pitt Canvas
+    url: https://canvas.pitt.edu/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Pitt Library 
+    url: https://library.pitt.edu/ 
+    hide_icon: false 
+    opens_in_new_tab: true 
+
+footer_content: ''
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/midhubalan/gen-ai-4-business" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# For copy button on code
+enable_copy_code_button: true
+
+# collections
+collections:
+  strategy:
+    output: true
+  comp_think:
+    output: true 
+
+just_the_docs:
+  collections:
+    strategy:
+      name: 'Strategic Management'
+      nav_fold: true
+    comp_think:
+      name: 'Computational Thinking'
+      nav_fold: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: To-do
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
