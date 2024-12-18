@@ -122,9 +122,6 @@ Section # 1160
   </summary>
    {: .text-delta }
   <p>None</p>
-<<<<<<< HEAD
-  </details>
-=======
   </details>
 
 
@@ -199,5 +196,3 @@ College/Graduate school can be an exciting and challenging time for students. Ta
 If you or anyone you know experiences overwhelming academic stress, persistent difficult feelings and/or challenging life events, you are strongly encouraged to seek support. In addition to reaching out to friends and loved ones, consider connecting with a faculty member you trust for assistance connecting to helpful resources.
 
 The [University Counseling Center](http://www.counseling.pitt.edu/) is also here for you. You can call 412-648-7930 at any time to connect with a clinician. If you or someone you know is feeling suicidal, please call the University Counseling Center at any time at 412-648-7930. You can also contact Resolve Crisis Network at 888-796-8226. If the situation is life threatening, call Pitt Police at 412-624-2121 or dial 911.
-
->>>>>>> 34-add-requiredsuggested-syllabus-statements
