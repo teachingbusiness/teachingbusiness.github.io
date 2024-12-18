@@ -128,7 +128,22 @@ Section # 1160
 
 ## Course Description
 
-## Learning Objective
+Strategic Management focuses on equipping organizations with tools and practices to thrive in the broader human society. This involves creating, sustaining, and deepening the organization's relevance by:
+
+> **Understanding and responding to the environment:**
+>  *  Finding opportunities to capture value within the network of competitors, suppliers, and customers.
+>  * Analyzing the broader environment to anticipate changes that could affect the organization's relevance.
+>  * Seizing new opportunities for value creation that emerge from environmental shifts.
+
+> **Aligning internal activities:**
+>   * Understanding the organization as a system of economic activity.
+>   * Realigning value chain activities to sustain and deepen organizational relevance.
+
+> **Shaping the external landscape:**
+>   * Cutting across cultural and geopolitical boundaries to reconfigure organizational boundaries.
+>   * Shaping the external environment to enhance the organization's relevance.
+
+### Learning Objectives
 
 ## Teaching Philosophy
 
@@ -138,22 +153,25 @@ Section # 1160
 
 ## Assessment
 
-### Rubrics
+ Rubrics
 
 ## Course Policies
 
-### Academic Integrity
-Students in this course will be expected to comply with the University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
+**Academic Integrity**
+
+Students in this course will be expected to comply with the [University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
 
 To learn more about Academic Integrity, visit the [Academic Integrity Guide](http://pitt.libguides.com/academicintegrity/) for an overview of the topic. For hands- on practice, complete the [Academic Integrity Modules](http://pitt.libguides.com/academicintegrity/plagiarism).
 
-### Disability Services
+**Disability Services**
+
 If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources and Services](https://www.studentaffairs.pitt.edu/drs/) (DRS), 140 William Pitt Union, (412) 648-7890, <drsrecep@pitt.edu>, (412) 228-5347 for P3 ASL users, as early as possible in the term. DRS will verify your disability and determine reasonable accommodations for this course.
 
-### Email Communication
+**Email Communication**
+
 Each student is issued a University e-mail address (username@pitt.edu) upon admittance. This e-mail address may be used by the University for official communication with students.  Students are expected to read e-mail sent to this account on a regular basis. Failure to read and react to University communications in a timely manner does not absolve the student from knowing and complying with the content of the communications. The University provides an e-mail forwarding service that allows students to read their e-mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address.
 
-### Pitt Concern Connection
+**Pitt Concern Connection**
 
 The University of Pittsburgh strives to build and maintain a positive and healthy working, learning, and living environment. Reporting concerns and asking questions can minimize the potential negative impact of inappropriate conduct on the University and our employees, faculty, and students. Reporting can help improve our culture and operations by identifying issues that require attention.
 
@@ -161,10 +179,12 @@ The [Pitt Concern Connection](https://compliance.pitt.edu/make-report) is a dedi
 
 The Pitt Concern Connection is not an emergency service. Immediate, life-threatening safety concerns should be reported to 911 or by contacting your local University police or security department.
 
-### Religious Observances
+**Religious Observances**
+
 The observance of religious holidays (activities observed by a religious group of which a student is a member) and cultural practices are an important reflection of diversity. As your instructor, I am committed to providing equivalent educational opportunities to students of all belief systems. At the beginning of the semester, you should review the course requirements to identify foreseeable conflicts with assignments, exams, or other required attendance. If at all possible, please contact me (your course coordinator/s) within the first two weeks of the first class meeting to allow time for us to discuss and make fair and reasonable adjustments to the schedule and/or tasks.
 
-### Sexual Misconduct, Required Reporting, and Title IX
+**Sexual Misconduct, Required Reporting, and Title IX**
+
 If you are experiencing sexual assault, sexual harassment, domestic violence, and stalking, please report it to me and I will connect you to University resources to support you.
 
 University faculty and staff members are required to report all instances of sexual misconduct, including harassment and sexual violence to the Office of Civil Rights and Title IX. When a report is made, individuals can expect to be contacted by the Title IX Office with information about support resources and options related to safety, accommodations, process, and policy. I encourage you to use the services and resources that may be most helpful to you.
@@ -183,14 +203,16 @@ Any form of sexual harassment or violence will not be excused or tolerated at th
 
 For additional information, please visit the [full syllabus statement](https://www.diversity.pitt.edu/civil-rights-title-ix/how-make-report/responsible-employee-program-and-reporting) on the Office of Diversity, Equity, and Inclusion webpage.
 
-### Statement on Classroom Recording
+**Statement on Classroom Recording**
+
 To ensure the free and open discussion of ideas, students may not record classroom lectures, discussion and/or activities without the advance written permission of the instructor, and any such recording properly approved in advance can be used solely for the student’s own private use.
 
-### Statement on Scholarly Discourse
+**Statement on Scholarly Discourse**
+
 In this course we will be discussing very complex issues of which all of us have strong feelings and, in most cases, unfounded attitudes. It is essential that we approach this endeavor with our minds open to evidence that may conflict with our presuppositions. Moreover, it is vital that we treat each other’s opinions and comments with courtesy even when they diverge and conflict with our own. We must avoid personal attacks and the use of ad hominem arguments to invalidate each other’s positions. Instead, we must develop a culture of civil argumentation, wherein all positions have the right to be defended and argued against in intellectually reasoned ways. It is this standard that everyone must accept in order to stay in this class; a standard that applies to all inquiry in the university, but whose observance is especially important in a course whose subject matter is so emotionally charged.
 From a [California State University course: Race, Racism and Critical Thinking.](http://www.csun.edu/~gm61310/classes/aas201/aas201syllabus.pdf)
 
-### Your Well-being Matters
+**Your Well-being Matters**
 College/Graduate school can be an exciting and challenging time for students. Taking time to maintain your well-being and seek appropriate support can help you achieve your goals and lead a fulfilling life. It can be helpful to remember that we all benefit from assistance and guidance at times, and there are many resources available to support your well-being while you are at Pitt. You are encouraged to visit [Thrive@Pitt](https://www.thrive.pitt.edu/) to learn more about well-being and the many campus resources available to help you thrive.
 
 If you or anyone you know experiences overwhelming academic stress, persistent difficult feelings and/or challenging life events, you are strongly encouraged to seek support. In addition to reaching out to friends and loved ones, consider connecting with a faculty member you trust for assistance connecting to helpful resources.
