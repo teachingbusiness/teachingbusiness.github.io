@@ -99,7 +99,7 @@ Section # 1160
   <tbody>
     <tr>
       <td>Name</td>
-      <td>Dr. Midhu Balsubramanian</td>
+      <td>Dr. Midhu Balasubramanian</td>
     </tr>
     <tr>
       <td>Email</td>
@@ -141,6 +141,14 @@ Section # 1160
 ### Rubrics
 
 ## Course Policies
+
+### Academic Integrity
+Students in this course will be expected to comply with the University of Pittsburgh’s Policy on Academic Integrity](https://www.provost.pitt.edu/info/ai1.html). Any student suspected of violating this obligation for any reason during the semester will be required to participate in the procedural process, initiated at the instructor level, as outlined in the University Guidelines on Academic Integrity. This may include, but is not limited to, the confiscation of the examination of any individual suspected of violating University Policy. Furthermore, no student may bring any unauthorized materials to an exam, including dictionaries and programmable calculators.
+
+To learn more about Academic Integrity, visit the [Academic Integrity Guide](http://pitt.libguides.com/academicintegrity/) for an overview of the topic. For hands- on practice, complete the [Academic Integrity Modules](http://pitt.libguides.com/academicintegrity/plagiarism).
+
+### Disability Services
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources and Services](https://www.studentaffairs.pitt.edu/drs/) (DRS), 140 William Pitt Union, (412) 648-7890, <drsrecep@pitt.edu>, (412) 228-5347 for P3 ASL users, as early as possible in the term. DRS will verify your disability and determine reasonable accommodations for this course.
 
 ### Email Communication
 Each student is issued a University e-mail address (username@pitt.edu) upon admittance. This e-mail address may be used by the University for official communication with students.  Students are expected to read e-mail sent to this account on a regular basis. Failure to read and react to University communications in a timely manner does not absolve the student from knowing and complying with the content of the communications. The University provides an e-mail forwarding service that allows students to read their e-mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address.
