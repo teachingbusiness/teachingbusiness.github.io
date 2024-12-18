@@ -85,3 +85,41 @@ Section # 1160
   </tbody>
 </table>
 </details>
+
+
+
+{: .fw-500 }
+## Teaching Team
+<details open markdown="block">
+  <summary>
+    Primary Instructor
+  </summary>
+  {: .text-delta }
+<table>
+  <tbody>
+    <tr>
+      <td>Name</td>
+      <td>Dr. Midhu Balasubramanian</td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td><a href="mailto:midhu.balan@pitt.edu">midhu.balan@pitt.edu</a></td>
+    </tr>
+    <tr>
+      <td>Office location</td>
+      <td>Mervis 247</td>
+    </tr>
+    <tr>
+      <td>Office hours</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<details close markdown="block">
+  <summary>
+    Teaching Assistants
+  </summary>
+   {: .text-delta }
+  <p>None</p>
+  </details>
