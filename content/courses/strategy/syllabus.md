@@ -129,26 +129,62 @@ Section # 1160
 
 ## Course Description
 
-Strategic Management focuses on equipping organizations with tools and practices to thrive in the broader human society. This involves creating, sustaining, and deepening the organization's relevance by:
+Strategic Management focuses on equipping organizations with the tools and practices they need to thrive. This involves creating, sustaining, and deepening the organization's relevance by:
 
-> **Understanding and responding to the environment:**
->  *  Finding opportunities to capture value within the network of competitors, suppliers, and customers.
->  * Analyzing the broader environment to anticipate changes that could affect the organization's relevance.
->  * Seizing new opportunities for value creation that emerge from environmental shifts.
+* **Understanding and responding to the environment:**
+    *  Finding opportunities to capture value within the network of competitors, suppliers, and customers.
+    * Analyzing the broader environment to anticipate changes that could affect the organization.
+    * Seizing new opportunities for value creation that emerge from environmental shifts.
 
-> **Aligning internal activities:**
->   * Understanding the organization as a system of economic activity.
->   * Realigning value chain activities to sustain and deepen organizational relevance.
+* **Aligning internal activities:**
+    * Understanding the organization as a system of economic activity.
+    * Realigning value chain activities to sustain and deepen organizational relevance.
 
-> **Shaping the external landscape:**
->   * Cutting across cultural and geopolitical boundaries to reconfigure organizational boundaries.
->   * Shaping the external environment to enhance the organization's relevance.
+* **Shaping the external landscape:**
+    * Cutting across cultural and geopolitical boundaries to reconfigure organizational boundaries.
+    * Shaping the external environment to enhance the organization's relevance.
 
-### Learning Objectives
+
+## Learning Objectives
+
+By the end of this course, you will be able to:
+
+* Analyze industry structure to determine its attractiveness for existing companies.
+* Understand how broader environmental trends and developments impact business performance.
+* Explain the link between specific value chain activities and customer value proposition, and identify sources of competitive advantage.
+* Evaluate the role of corporate headquarters and individual business units in creating a competitive advantage for the overall company.
+* Develop a well-informed business strategy and execution plan.
+
+
+## Course Structure
+
+This course is divided into three major sections:
+
+1. **Analyzing the External Environment:** We'll explore key tools for assessing the external environment, with a focus on Porter's Five Forces framework for industry analysis. This will help you understand the competitive dynamics and attractiveness of different industries.
+
+2. **Evaluating Organizational Resources and Competitive Advantage:** We'll delve into principles and tools for evaluating organizational resources and capabilities.  This section covers competitive advantage analysis, its relationship with innovation, and how to create compelling customer value propositions. We'll also connect these ideas to insights from our industry structure analysis.
+
+3. **Competing in Multiple Markets and Strategy Execution:** We'll examine why and how firms compete across multiple product and geographic markets. This includes understanding the role of corporate headquarters, the importance of organizational structure, and the complexities of strategy execution. Finally, we'll emphasize that strategy is a continuous cycle of analysis, formulation, implementation, and adaptation, rather than a one-time event.
 
 ## Teaching Philosophy
 
-## Required Resources
+
+## Course Materials
+
+**Required Coursepack:**
+
+* A coursepack containing required readings and cases is available for purchase through Harvard Business Publishing for about $70. 
+* Purchase your coursepack here: [https://hbsp.harvard.edu/import/1242102](https://hbsp.harvard.edu/import/1242102)
+* First-time HBSP users, learn how to access your coursepack: [https://help.hbsp.harvard.edu/hc/en-us/articles/1500002412222-Accessing-a-Coursepack-Assigned-to-You](https://help.hbsp.harvard.edu/hc/en-us/articles/1500002412222-Accessing-a-Coursepack-Assigned-to-You)
+* If you have any problems accessing the coursepack, please let me know.
+
+**Interactive Features:**
+
+The readings include interactive illustrations, videos, and key term lists. These features are excellent resources to prepare for in-class discussions. I strongly recommend taking advantage of them.
+
+**Canvas Resources:**
+
+Additional materials and ungraded tasks that may be used to facilitate classroom discussion will be posted on Canvas.
 
 ## Schedule
 
