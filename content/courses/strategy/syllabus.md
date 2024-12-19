@@ -1,4 +1,5 @@
 ---
+parent: "Strategic Management"
 title: Syllabus
 layout: default
 nav_order: 1
