@@ -1,7 +1,7 @@
 ---
 title: NotebookLM Guide
-layout: default
-nav_order: 99
+parent: Strategic Management
+nav_order: 5
 ---
 Here are some things you might want to include in a guide to help students get started with using NotebookLM for a research project:
 

@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-layout: default
+parent: Strategic Management
 nav_order: 1
 ---
 {: .text-center .fw-700 .no_toc}

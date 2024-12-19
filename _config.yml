@@ -138,20 +138,20 @@ back_to_top_text: "Back to top"
 enable_copy_code_button: true
 
 # collections
-collections:
-  strategy:
-    output: true
-  comp_think:
-    output: true 
+# collections:
+#   strategy:
+#     output: true
+#   comp_think:
+#     output: true 
 
-just_the_docs:
-  collections:
-    strategy:
-      name: 'Strategic Management'
-      nav_fold: true
-    comp_think:
-      name: 'Computational Thinking'
-      nav_fold: true
+# just_the_docs:
+#   collections:
+#     strategy:
+#       name: 'Strategic Management'
+#       nav_fold: true
+#     comp_think:
+#       name: 'Computational Thinking'
+#       nav_fold: true
 
 callouts_level: quiet # or loud
 callouts:
