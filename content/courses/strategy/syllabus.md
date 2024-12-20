@@ -171,22 +171,55 @@ This course is divided into three major sections:
 
 ## Course Materials
 
-**Required Coursepack:**
+**Required Coursepack:** 
 
-* A coursepack containing required readings and cases is available for purchase through Harvard Business Publishing for about $70. 
-* Purchase your coursepack here: [https://hbsp.harvard.edu/import/1242102](https://hbsp.harvard.edu/import/1242102)
+* A coursepack containing required readings and cases is available for purchase through Harvard Business Publishing (HBSP) for about $70. 
+* The readings include interactive illustrations, videos, and key term lists. These features are excellent resources to prepare for in-class discussions. I strongly recommend taking advantage of them.
 * First-time HBSP users, learn how to access your coursepack: [https://help.hbsp.harvard.edu/hc/en-us/articles/1500002412222-Accessing-a-Coursepack-Assigned-to-You](https://help.hbsp.harvard.edu/hc/en-us/articles/1500002412222-Accessing-a-Coursepack-Assigned-to-You)
-* If you have any problems accessing the coursepack, please let me know.
+* If you have any problems accessing the HBSP coursepack, please let me know.
+* Additional materials that may be used to facilitate classroom discussion will be posted on Canvas.
 
-**Interactive Features:**
+{: .important-title}
+>
+> Course Material Purchase Information <span>To-do</span>{: .label .label-red }
+>
+> Purchase your coursepack here: [https://hbsp.harvard.edu/import/1242102](https://hbsp.harvard.edu/import/1242102)
+>
 
-The readings include interactive illustrations, videos, and key term lists. These features are excellent resources to prepare for in-class discussions. I strongly recommend taking advantage of them.
+**CapitalIQ**
 
-**Canvas Resources:**
+Capital IQ, a product of S&P Global Market Intelligence, is a powerful research platform that provides comprehensive data and analysis on companies, markets, and industries. It's a valuable resource for conducting in-depth company analysis, particularly for your course project.
 
-Additional materials and ungraded tasks that may be used to facilitate classroom discussion will be posted on Canvas.
+Here's what you can find on Capital IQ:
+
+* **Financial data:**  Access detailed historical and current financials (income statements, balance sheets, cash flows) for public and private companies.
+* **Industry benchmarks:** Compare company performance to industry averages and identify trends.
+* **Qualitative information:**  Explore company profiles, news articles, and research reports to understand strategy, leadership, and competitive positioning.
+* **Valuation tools:** Utilize various valuation models and metrics to assess company value and financial health.
+* **M&A data:**  Research past mergers and acquisitions, including deal terms and valuations.
+
+{: .important-title}
+> 
+> CapitalIQ New User Registration <span>To-do</span>{: .label .label-red }
+>
+> Please make sure to sign up for an account. It is free for Pitt students. You can find the details here: [https://pitt.libanswers.com/faq/52206](https://pitt.libanswers.com/faq/52206)
+
+**NotebookLM**
+
+NotebookLM is an AI-powered research assistant from Google that can help you with your company research project. It allows you to organize your sources, summarize key information, and even brainstorm ideas – all in one place.
+
+* **Access:**  You will need a Google account to access the service. The service can be accessed here: [https://notebooklm.google.com/](https://notebooklm.google.com/)
+* **Help & Tutorials:** Check out the official Google Help Center for detailed documentation and FAQs: [https://support.google.com/notebooklm/answer/15724458](https://support.google.com/notebooklm/answer/15724458)
+
+{: .important-title}
+>
+> NotebookLM Google Account Requirement<span>To-do</span>{: .label .label-red}
+>
+> You'll be using NotebookLM for a semester-long group project. If you prefer not to share your personal email address with your group members, we encourage you to create an email alias. 
 
 ## Schedule
+
+
 
 ## Assessment
 
