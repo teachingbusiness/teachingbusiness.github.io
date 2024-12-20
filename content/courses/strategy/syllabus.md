@@ -21,10 +21,10 @@ nav_order: 1
 <summary>
 Section # 1150 
 </summary>
-<table>
+<table style="table-layout: auto; width: 100%">
   <tbody>
     <tr>
-      <td>Course Number</td>
+      <td style="width:25%">Course Number</td>
       <td>BUSSPP 1080</td>
     </tr>
     <tr>
@@ -57,10 +57,10 @@ Section # 1150
 <summary>
 Section # 1160 
 </summary>
-<table>
+<table style="table-layout: auto; width: 100%">
   <tbody>
     <tr>
-      <td>Course Number</td>
+      <td style="width:25%">Course Number</td>
       <td>BUSSPP 1080</td>
     </tr>
     <tr>
@@ -96,14 +96,14 @@ Section # 1160
     Primary Instructor
   </summary>
   {: .text-delta }
-<table>
+<table style="table-layout: auto; width: 100%">
   <tbody>
     <tr>
-      <td>Name</td>
+      <td style="width:25%">Name</td>
       <td>Dr. Midhu Balasubramanian</td>
     </tr>
     <tr>
-      <td>Email</td>
+      <td >Email</td>
       <td><a href="mailto:midhu.balan@pitt.edu">midhu.balan@pitt.edu</a></td>
     </tr>
     <tr>
@@ -219,7 +219,9 @@ NotebookLM is an AI-powered research assistant from Google that can help you wit
 
 ## Schedule
 
+Check <a href="#course-information">Course Information</a> for the meeting times of your section.
 
+Please see the [Schedule]({% link content/courses/strategy/schedule.md %}) for topic and task details for each session. 
 
 ## Assessment
 
