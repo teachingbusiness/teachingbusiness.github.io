@@ -27,7 +27,7 @@ nav_order: 2
       <td>
         <p>
             <ul>
-              <li> Purchase Coursepack</li>
+              <li> Purchase coursepack</li>
               <li> Create CapitalIQ account</li>
               <li> Sign up for NotebookLM</li>
             </ul>
@@ -46,9 +46,9 @@ nav_order: 2
         <td>
           <p>
               <ul>
-                <li> Complete the Reading Assignment</li>
-                <li> Take the Quiz</li>
-                <li> Submit Exit tickets</li>
+                <li>Group and company celection due. <span class="label label-purple">Group</span></li>
+                <li> Take the quiz</li>
+                <li> Submit exit tickets</li>
               </ul>
           </p>
         </td>
@@ -65,8 +65,8 @@ nav_order: 2
         <td>
           <p>
               <ul>
-                <li> Complete the Dry Run Project. <span class="label label-purple">Group</span> </li>
-                <li> Submit Dry Run Project</li>
+                <li> Complete the dry run project. <span class="label label-purple">Group</span> </li>
+                <li> Submit dry run project</li>
               </ul>
           </p>
         </td>
@@ -86,11 +86,10 @@ nav_order: 2
         <td>
           <p>
               <ul>
-                <li> Complete the Reading Assignment</li>
-                <li> Take the Quiz</li>
-                <li> Submit Exit tickets</li>
-                <li>Kickoff Course Project <span class="label label-purple">Group</span></li>
-                <li>Prepare for the Concept Test 1</li>
+                <li> Take the quiz</li>
+                <li> Submit exit tickets</li>
+                <li>Kickoff course project <span class="label label-purple">Group</span></li>
+                <li>Prepare for the concept test 1</li>
               </ul>
           </p>
         </td>
@@ -105,8 +104,8 @@ nav_order: 2
         </td>
         <td>
             <ul>
-                <li>Complete Application of industry Analysis Frameworks to Your Project Company. <span class="label label-purple">Group</span></li>
-                <li>Submit Blog Post Draft</li>
+                <li>Complete application of industry analysis frameworks to your project company. <span class="label label-purple">Group</span></li>
+                <li>Submit findings</li>
             </ul>
         </td>
     </tr>
@@ -128,17 +127,16 @@ nav_order: 2
         <td>
             <ul>
                 <li>
-                <p>Complete the Reading Assignment:
+                <p>Take the quizzes:
                     <ul>
                         <li>Competitive Advantage</li>
                         <li>Sustaining Competitive Advantage</li>
-                        <li>Leading Breakthrough Innovation in Established Companies</li>
+                        <li>Leading Innovation</li>
                     </ul>
                 </p>
                </li>
-                <li>Take the Quizzes</li>
-                <li>Submit Exit Tickets</li>
-                <li>Prepare for the Concept Test 2</li>
+                <li>Submit exit tickets</li>
+                <li>Prepare for the concept test 2</li>
               </ul> 
         </td>
     </tr>
@@ -152,8 +150,8 @@ nav_order: 2
         </td>
         <td>
             <ul>
-                <li>Complete Application of Competitive Advantage Analysis Frameworks to Your Project Company. <span class="label label-purple">Group</span></li>
-                <li>Submit Blog Post Draft</li>
+                <li>Complete application of competitive advantage analysis frameworks to your project company. <span class="label label-purple">Group</span></li>
+                <li>Submit findings</li>
             </ul>
         </td>
     </tr>
@@ -171,48 +169,54 @@ nav_order: 2
         <td>
             <ul>
                 <li>
-                    <p>Complete the Reading Assignments:
+                    <p>Take the quizzes:
                         <ul>
                             <li>Competing Globally</li>
                             <li>Corporate Strategy</li>
                         </ul>
                     </p>
                 </li>
-                <li>Take the Quizzes</li>
-                <li>Submit Exit Tickets</li>
-                <li>Prepare for the Concept Test 3</li>
+                <li>Submit exit tickets</li>
+                <li>Prepare for the concept test 3</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>9</td>
+      <td>9</td>
+      <td>
+        <p>04/08</p>
+      </td>
+      <td>
+        <p>Concept Test 3</p>
+      </td>
+      <td>
+          <ul>
+              <li>Complete application of corporate strategy analysis frameworks to your project company. <span class="label label-purple">Group</span></li>
+              <li>Submit findings</li>
+          </ul>
+      </td>
+  </tr>
+    <tr>
+        <td>10</td>
         <td>
-          <p>04/08</p>
           <p>04/10</p>
+          <p>04/15</p>
         </td>
         <td>
           <p>Strategic Initiatives: Development and Execution</p>
         </td>
         <td>
             <ul>
-                <li>
-                    <p>Complete the Reading Assignments:
-                        <ul>
-                            <li>Strategy Execution</li>
-                        </ul>
-                    </p>
-                </li>
-                <li>Take the Quiz</li>
-                <li>Submit Exit Tickets</li>
-                <li>Complete Application of Strategy Execution Frameworks to Your Project Company. <span class="label label-purple">Group</span></li>
-                <li>Prepare for the Presentation</li>
+                <li>Take the quiz</li>
+                <li>Submit exit tickets</li>
+                <li>Complete application of strategic initiatives development & execution frameworks to Your project company. <span class="label label-purple">Group</span></li>
+                <li>Prepare for the presentation</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td>
-          <p>04/15</p>
           <p>04/17</p>
           <p>04/22</p>
         </td>
@@ -221,18 +225,8 @@ nav_order: 2
         </td>
         <td>
             <ul>
-                <li>
-                    <p>Complete the Reading Assignments:
-                        <ul>
-                            <li>Strategy Execution</li>
-                        </ul>
-                    </p>
-                </li>
-                <li>Present your Team's Stretgic Initiatives <span class="label label-purple">Group</span></li>
-                <li>Submit Blog Posts<span class="label label-purple">Group</span></li>
-                <li>Submit Audio Overviews <span class="label label-purple">Group</span></li>
-                <li>Submit Exit Tickets</li>
-                <li>Submit Self-reflection Essay</li>
+                <li>Present your team's stretgic initiatives <span class="label label-purple">Group</span></li>
+                <li>Submit exit tickets</li>
             </ul>
         </td>
     </tr>
