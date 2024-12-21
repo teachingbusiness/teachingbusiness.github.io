@@ -172,7 +172,7 @@ PLATFORMS
 DEPENDENCIES
   google-protobuf (>= 4.28.2)
   jekyll (~> 4.3.4)
-  just-the-docs
+  just-the-docs (= 0.10.0)
   rexml (>= 3.3.9)
   webrick (>= 1.8.2)
 
