@@ -46,7 +46,7 @@ nav_order: 2
         <td>
           <p>
               <ul>
-                <li>Group and company celection due. <span class="label label-purple">Group</span></li>
+                <li>Group and company selection. <span class="label label-purple">Group</span></li>
                 <li> Take the quiz</li>
                 <li> Submit exit tickets</li>
               </ul>

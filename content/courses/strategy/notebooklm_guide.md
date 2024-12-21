@@ -38,3 +38,111 @@ Here are some things you might want to include in a guide to help students get s
 *   **Direct students to support resources**:  Share links to relevant documentation, help articles, and support channels for further assistance.
 
 By incorporating these elements into a comprehensive guide, you can effectively equip your students to leverage NotebookLM for their research projects, allowing them to efficiently gather, synthesize, and present information in a structured and organized way.  This is important because, as discussed in our previous conversation, NotebookLM is very effective at synthesizing information from various sources, which can be a valuable skill for students to learn and utilize in their academic pursuits.
+
+
+
+
+This assignment description is pretty clear, but here's how we can make it even better, along with some questions I have as a student:
+
+**Improved Assignment Description**
+
+**Dry Run Project: Exploring NotebookLM**
+
+AI tools like NotebookLM can be a game-changer for learning and completing projects like our company analysis. Think of it as your research superpower! NotebookLM can help you:
+
+* **Answer tough questions:** It searches across different sources like YouTube interviews, earnings calls, and even those dense regulatory filings (like DEF 14-A) to find what you need.
+* **Make learning easier:**  It summarizes complex documents like 10-K reports in a way that's actually understandable.
+
+This assignment helps you get comfortable with NotebookLM before diving into the main project. Here's what you need to do:
+
+1. **Create a Notebook:** Add relevant sections from the syllabus as sources, using a variety of formats:
+    * Links
+    * Empty notes (start from scratch)
+    * Google Docs
+    * Uploaded PDFs
+2. **Question Time:**  Imagine you're a student learning about this course for the first time. What questions would you ask? Use the chat interface to get answers.
+3. **Save & Organize:** Save helpful responses as notes and organize them into categories that make sense.
+4. **Summary Power:** Explore different summary formats:
+    * Study guide
+    * Audio overview
+    * FAQ
+5. **Experiment!** See how you can change the structure and content of the summaries.
+
+**My Questions as a Student**
+
+* **Deadline:** When is this assignment due?
+* **Grading:** How will this assignment be graded? Is there a rubric?
+* **Notebook Sharing:**  Should we share our Notebook with you (the instructor) or anyone else?
+* **Specific Topics:** Are there any specific syllabus sections you want us to focus on?
+* **Length:** Is there a minimum or maximum number of questions we should ask, or notes we should create?
+
+
+By clarifying these details, you'll help us understand the expectations and get the most out of this dry run with NotebookLM.
+
+Of course! Here's the rubric adjusted to a 100-point scale:
+
+**Rubric for NotebookLM Dry Run Assignment (100 points)**
+
+| Criteria | Excellent (25 pts) | Good (20 pts) | Fair (15 pts) | Needs Improvement (10 pts) |
+|---|---|---|---|---|
+| **Notebook Creation & Source Integration** | Notebook is well-organized with clear headings and sections.  Sources are diverse (links, notes, Docs, PDFs) and integrated seamlessly. | Notebook has a basic structure. Sources are included but may lack variety or integration. | Notebook organization is unclear.  Limited variety of sources. | Notebook is missing key elements or sources are not properly integrated. |
+| **Question Generation & Exploration** |  Questions are thoughtful, relevant to the course, and demonstrate curiosity.  Answers are explored thoroughly through the chat interface. | Questions are relevant but may lack depth or exploration. | Questions are basic or limited in scope.  Minimal use of the chat interface. | Questions are irrelevant or demonstrate little effort.  Chat interface is not effectively used. |
+| **Note Organization & Categorization** | Notes are comprehensive, clearly labeled, and organized into logical categories.  | Notes capture key information and are organized with some attempt at categorization. | Notes are incomplete or disorganized.  Categorization is unclear or absent. | Notes are minimal or irrelevant.  No attempt at organization. |
+| **Summary Exploration & Manipulation** |  Multiple summary formats (study guide, audio, FAQ) are explored.  Clear evidence of experimentation with structure and content manipulation. | At least two summary formats are explored. Some attempts to manipulate structure and content are evident. |  Limited exploration of summary formats. Minimal attempts to manipulate structure and content. |  Only one summary format is used. No evidence of experimentation with structure or content. |
+| **Overall Impression** | Assignment demonstrates a strong understanding of NotebookLM's capabilities and thoughtful engagement with the tool.  | Assignment shows good effort and understanding of basic features. | Assignment meets basic requirements but lacks depth or creativity. | Assignment is incomplete or shows minimal effort.  |
+
+**Total Points:** 100
+
+**Grading Scale:** You can use your usual grading scale for your course, as the points now align with a standard 100-point system.
+
+
+
+Here are some common NotebookLM workflows that could be helpful for your company analysis project:
+
+### **Using Sources** 
+
+*   NotebookLM will use all the sources you upload in the current notebook to formulate an answer to a question in the chatbox.
+*   You can select specific sources in the left-hand sidebar if you want to focus on a single source or a subset of sources.
+
+### **Reading**
+
+*   NotebookLM provides a source guide with a summary and a list of topics to help you understand the source material.
+*   It also generates suggested questions.
+*   You can select passages to get suggested actions from NotebookLM.
+    *   You can save quotes.
+    *   You can ask for a summary.
+    *   You can get a simpler explanation.
+    *   You can get related ideas.
+
+### **Taking Notes**
+
+*   You can save responses from NotebookLM as notes.
+*   You can write your own notes.
+*   You can ask questions about the content in a group of your own notes.
+
+### **“Curate and Create”** 
+
+*   You can select notes to get a menu of suggested actions that help you transform the information in the notes.
+*   You can combine notes.
+*   You can summarize the content of your notes.
+*   You can organize notes into categories.
+*   You can create a study guide from your notes.
+*   You can create other formats based on your notes by typing instructions in the chatbox, such as blog posts, marketing plans, or email newsletters.
+
+### **Writing**
+
+*   You can write in an empty note.
+*   You can use notes and suggested actions to create outlines or drafts.
+*   You can select a note and ask for a critique.
+*   You can select a note and ask for related ideas.
+
+### **Tips**
+
+*   Focus the AI’s attention on different elements by selecting sources or notes.
+*   Save findings that capture your attention as notes.
+*   Select a group of notes and use the suggested actions to organize them into a structured format.
+*   Review the original quotes in the citations.
+*   Ask questions about images in slides and docs.
+*   Avoid asking NotebookLM to perform mathematical calculations.
+
+NotebookLM is a powerful tool that can help you with many aspects of company analysis. It can help you read and understand sources, take notes, generate ideas, and write reports. By using the workflows described above, you can get the most out of NotebookLM and make your project a success!
