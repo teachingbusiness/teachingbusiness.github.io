@@ -3,56 +3,9 @@ title: Industry Structure
 nav_order: 2
 parent: Company Analysis Project
 ---
-This is a good start to your assignment description, but as a student, I have some questions and suggestions for improvement:
 
-**Improved Assignment Description**
+# **Industry Analysis**
 
-**Industry Analysis Project**
-
-This is the first major phase of your company analysis project. Here's how we'll break it down:
-
-1. **Define the Industry:**
-    * Identify the relevant industry for each of your company's strategic business units (SBUs).
-    * If your company has multiple SBUs, focus on the "cash cows" and "stars" that generate the most revenue.
-
-2. **Strategic Group Analysis:**
-    * Categorize competitors based on similarities in their strategies and business models. 
-
-3. **Five Forces Analysis:**
-    * Analyze the industry's attractiveness using Porter's Five Forces framework.
-    * Consider whether different strategic groups experience the five forces differently.
-
-4. **PESTLE Analysis:**
-    * Use the PESTLE framework to assess the industry's future attractiveness.
-    * Discuss how your PESTLE findings might impact the strategic groups you identified.
-
-**Research & Tools:**
-
-* **NotebookLM:** Conduct your analysis using NotebookLM.  Make sure to populate your notebook with all relevant source materials.
-* **Authoritative Sources:** Stick to credible sources like:
-    * Company 10-K reports
-    * Earnings call transcripts
-    * Analyst reports from reputable investment banks
-    * Industry data providers (e.g., IBISWorld)
-* **Summaries:** Use your NotebookLM skills to summarize information from these sources into a format that's ready for submission.
-
-**My Questions as a Student**
-
-* **Deadline:** When is this industry analysis due?
-* **Submission Format:** What format should the final submission be in (e.g., Word document, PDF, presentation)?
-* **Length:** Is there a target page length or word count for the analysis?
-* **Grading:** How will this assignment be graded? Is there a rubric?
-* **Company Selection:**  Can we choose any company, or are there specific industries or company sizes you want us to focus on?
-* **SBU Clarification:** How do we determine which SBUs are the "cash cows" and "stars"? Can we get some examples or guidance on this?
-* **Notebook Access:** Should we share our NotebookLM notebook with you or with anyone else?
-
-
-By clarifying these details, you'll give us a much clearer understanding of the task and how to succeed.
-
-This assignment description is much clearer now, but here are a few tweaks to make it even better for us students:
-
-
-**Industry Analysis Project**
 
 This is the first major phase of your company analysis project, where you'll continue working with the company your group chose. Here's the breakdown:
 
@@ -66,10 +19,16 @@ This is the first major phase of your company analysis project, where you'll con
 3. **Five Forces Analysis:**
     * Analyze the industry's current attractiveness using Porter's Five Forces framework.
     * Consider whether different strategic groups experience the five forces differently.
+    * Please refer back to the industry analysis reading for a detailed example and walk-through.
 
 4. **PESTLE Analysis:**
     * Use the PESTLE framework to assess the industry's future attractiveness.
     * Discuss how your PESTLE findings might impact the strategic groups you identified.
+
+{: .note-title}
+> Key concepts & examples:
+>
+> Review the assigned readings on Industry Analysis and the class slides for helpful explanations and examples.
 
 **Research & Tools:**
 
@@ -86,22 +45,10 @@ This is the first major phase of your company analysis project, where you'll con
 * **Points:** 100 points
 
 
-**My Questions as a Student**
-
-* **Grading Rubric:**  Is there a rubric that shows how this assignment will be graded?
-* **Company Selection:** Can we choose any company, or are there specific industries or company sizes you want us to focus on?
-* **SBU Clarification:** How do we determine which SBUs are the "cash cows" and "stars"? Can we get some examples or guidance on this?
-* **Notebook Access:** Should we share our NotebookLM notebook with you (the instructor) or with anyone else?
-
-
-
-Addressing these points will make the assignment crystal clear for us!
-
-
 **Rubric for Industry Analysis Project (100 points)**
 
 
-| Criteria | Excellent (25 pts) | Good (20 pts) | Fair (15 pts) | Needs Improvement (10 pts) |
+| Criteria | Excellent | Good | Fair | Needs Improvement |
 |---|---|---|---|---|
 | **Industry Definition & SBU Focus** |  Clearly and accurately defines the relevant industry for each SBU.  Focuses on the most important "cash cow" and "star" SBUs.  | Defines the relevant industries but may have minor inaccuracies or lack focus on key SBUs. | Industry definitions are vague or incomplete.  May not prioritize key SBUs.  | Fails to clearly define the relevant industries or identify key SBUs. |
 | **Strategic Group Analysis** |  Provides a insightful and well-supported categorization of competitors into strategic groups.  Clearly articulates the basis for grouping. | Categorizes competitors into strategic groups, but the analysis may lack depth or clarity in the grouping rationale. |  Attempts to categorize competitors but the grouping is unclear or poorly justified. | Fails to meaningfully categorize competitors into strategic groups. |

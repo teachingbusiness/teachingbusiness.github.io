@@ -41,7 +41,7 @@ This assignment helps you get comfortable with NotebookLM before diving into the
 
 **Rubric for NotebookLM Dry Run Assignment (100 points)**
 
-| Criteria | Excellent (25 pts) | Good (20 pts) | Fair (15 pts) | Needs Improvement (10 pts) |
+| Criteria | Excellent | Good | Fair | Needs Improvement |
 |---|---|---|---|---|
 | **Notebook Creation & Source Integration** | Notebook is well-organized with clear headings and sections.  Sources are diverse (links, notes, Docs, PDFs) and integrated seamlessly. | Notebook has a basic structure. Sources are included but may lack variety or integration. | Notebook organization is unclear.  Limited variety of sources. | Notebook is missing key elements or sources are not properly integrated. |
 | **Question Generation & Exploration** |  Questions are thoughtful, relevant to the course, and demonstrate curiosity.  Answers are explored thoroughly through the chat interface. | Questions are relevant but may lack depth or exploration. | Questions are basic or limited in scope.  Minimal use of the chat interface. | Questions are irrelevant or demonstrate little effort.  Chat interface is not effectively used. |
