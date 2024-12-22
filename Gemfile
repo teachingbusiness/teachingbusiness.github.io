@@ -6,3 +6,5 @@ gem "google-protobuf", ">= 4.28.2"
 gem "rexml", ">= 3.3.9"
 gem "just-the-docs", "0.10.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+gem 'csv'
+gem 'base64'
