@@ -6,6 +6,7 @@ parent: Company Analysis Project
 
 # **Dry Run Project: Exploring NotebookLM**
 
+## Description
 AI tools like NotebookLM can be a game-changer for learning and completing projects like our company analysis. Think of it as your research superpower! NotebookLM can help you:
 
 * **Answer tough questions:** It searches across different sources like YouTube interviews, earnings calls, and even those dense regulatory filings (like DEF 14-A) to find what you need.
@@ -26,18 +27,19 @@ This assignment helps you get comfortable with NotebookLM before diving into the
     * FAQ
 5. **Experiment!** See how you can change the structure and content of the summaries.
 
-**Important Details:**
 
-* **Summary Length:** Each summary should be about 2-3 pages long.
-* **Deadline:**  January 23rd, 5:00 PM
-* **Submission:** Upload your chosen summaries to Canvas along with a read-only link to your Notebook.
-* **Content:** Summaries should include key elements of the course, such as:
-    * Key topics
-    * Graded assignments and deadlines
-    * Course materials
-    * Contact information
-    * Meeting location
-    * And any other important course details
+{: .warning-title}
+> **Submission Details:**
+> * **Summary Length:** Each summary should be about 2-3 pages long.
+> * **Deadline:**  January 23rd, 5:00 PM
+> * **Submission:** Upload your chosen summaries to Canvas along with a read-only link to your Notebook.
+> * **Content:** Summaries should include key elements of the course, such as:
+>     * Key topics
+>     * Graded assignments and deadlines
+>     * Course materials
+>     * Contact information
+>     * Meeting location
+>     * And any other important course details
 
 **Rubric for NotebookLM Dry Run Assignment (100 points)**
 

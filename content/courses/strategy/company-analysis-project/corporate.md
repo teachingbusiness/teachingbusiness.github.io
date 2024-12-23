@@ -4,7 +4,7 @@ nav_order: 4
 parent: Company Analysis Project
 ---
 
-**Corporate Strategy Analysis Project**
+# **Corporate Strategy Analysis Project**
 
 This assignment focuses on understanding your company's corporate strategy and how it creates value. Here's what you'll analyze:
 
@@ -41,11 +41,12 @@ This assignment focuses on understanding your company's corporate strategy and h
     * Industry data providers (e.g., Capital IQ)
 * **Summaries:**  Use your NotebookLM skills to summarize information from these sources into a submission-ready format.
 
-**Submission Details:**
-
-* **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
-* **Deadline:** April 8th
-* **Points:** 100 points
+{: .warning-title}
+> **Submission Details:**
+> 
+> * **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
+> * **Deadline:** April 8th, 5:00 PM
+> * **Points:** 100 points
 
 
 **Rubric for Corporate Strategy Analysis Project (100 points)**

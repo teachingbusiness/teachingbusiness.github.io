@@ -4,7 +4,7 @@ nav_order: 5
 parent: Company Analysis Project
 ---
 
-**Strategic Initiative Development Project**
+# **Strategic Initiative Development Project**
 
 This final assignment challenges you to identify a strategic business problem and propose a solution. Here's the breakdown:
 
@@ -39,11 +39,12 @@ This final assignment challenges you to identify a strategic business problem an
     * Analyst reports from reputable investment banks
     * Industry data providers (e.g., Capital IQ)
 
-**Submission Details:**
-
-* **Format:** Submit your 5-page report (.docx or PDF), appendix, video presentation link (ensure accessible permissions), and NotebookLM link (ensure accessible permissions).
-* **Deadline:** April 22nd
-* **Points:** 100 points
+{: .warning-title}
+> **Submission Details:**
+> 
+> * **Format:** Submit your 5-page report (.docx or PDF), appendix, video presentation link (ensure accessible permissions), and NotebookLM link (ensure accessible permissions).
+> * **Deadline:** April 22nd, 5:00 PM
+> * **Points:** 100 points
 
 
 **Grading Rubric:**

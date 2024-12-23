@@ -12,7 +12,7 @@ nav_order: 2
       <th style="width: 5%">Module #</th>
       <th style="width: 5%">Dates</th>
       <th>Topic</th>
-      <th>Tasks <span class="label label-red">To-do</span></th>
+      <th>Tasks <span class="label label-red">ToDo</span></th>
     </tr>
   </thead>
   <tbody>
@@ -89,7 +89,7 @@ nav_order: 2
                 <li> Take the quiz</li>
                 <li> Submit exit tickets</li>
                 <li>Kickoff course project <span class="label label-purple">Group</span></li>
-                <li>Prepare for the concept test 1</li>
+                <li>Prepare for the case test 1</li>
               </ul>
           </p>
         </td>
@@ -100,7 +100,7 @@ nav_order: 2
           <p>02/13</p>
         </td>
         <td>
-          <p>Concept Test 1</p>
+          <p>Case Test 1</p>
         </td>
         <td>
             <ul>
@@ -136,7 +136,7 @@ nav_order: 2
                 </p>
                </li>
                 <li>Submit exit tickets</li>
-                <li>Prepare for the concept test 2</li>
+                <li>Prepare for the case test 2</li>
               </ul> 
         </td>
     </tr>
@@ -146,7 +146,7 @@ nav_order: 2
           <p>03/20</p>
         </td>
         <td>
-          <p>Concept Test 2</p>
+          <p>Case Test 2</p>
         </td>
         <td>
             <ul>
@@ -177,7 +177,7 @@ nav_order: 2
                     </p>
                 </li>
                 <li>Submit exit tickets</li>
-                <li>Prepare for the concept test 3</li>
+                <li>Prepare for the case test 3</li>
             </ul>
         </td>
     </tr>
@@ -187,7 +187,7 @@ nav_order: 2
         <p>04/08</p>
       </td>
       <td>
-        <p>Concept Test 3</p>
+        <p>Case Test 3</p>
       </td>
       <td>
           <ul>

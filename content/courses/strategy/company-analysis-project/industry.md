@@ -36,13 +36,13 @@ This is the first major phase of your company analysis project, where you'll con
 * **Authoritative Sources:**  Stick to credible sources like company 10-K reports, earnings call transcripts, analyst reports from reputable investment banks, and industry data providers (e.g., IBISWorld).
 * **Summaries:** Use your NotebookLM skills to summarize information from these sources into a submission-ready format.
 
-
-**Submission Details:**
-
-* **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
-* **Notebook Link:** Include a link to your NotebookLM notebook with your submission.
-* **Deadline:** February 13th
-* **Points:** 100 points
+{: .warning-title}
+> **Submission Details:**
+> 
+> * **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
+> * **Notebook Link:** Include a link to your NotebookLM notebook with your submission.
+> * **Deadline:** February 13th, 5:00 PM
+> * **Points:** 100 points
 
 
 **Rubric for Industry Analysis Project (100 points)**

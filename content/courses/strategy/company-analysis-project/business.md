@@ -33,12 +33,13 @@ This assignment dives deep into your company's competitive advantage. Here's wha
     * Industry data providers (e.g., Capital IQ)
 * **Summaries:** Use your NotebookLM skills to summarize information from these sources into a submission-ready format.
 
-**Submission Details:**
-
-* **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
-* **Notebook Link:**  Share a read-only link to your NotebookLM notebook with me.
-* **Deadline:** March 20th
-* **Points:** 100 points
+{: .warning-title}
+> **Submission Details:**
+> 
+> * **Format:** Submit as a .docx or PDF file, approximately 5 pages long.
+> * **Notebook Link:**  Share a read-only link to your NotebookLM notebook with me.
+> * **Deadline:** March 20th, 5:00 PM
+> * **Points:** 100 points
 
 **Grading Rubric:**
 
