@@ -12,10 +12,10 @@ This team project lets you put your strategic management skills to the test! You
 **Here's the challenge:**
 
 * **Choose a company:**  Select a company you find interesting and want to analyze.
-* [**Industry Analysis:**](/content/courses/strategy/company-analysis-project/industry)  Analyze the key industries where your company operates.
-* [**Business Strategy Analysis:** ](content/courses/strategy/company-analysis-project/business) Examine the company's critical business units.
-* [**Corporate Strategy Analysis:** ](content/courses/strategy/company-analysis-project/corporate)  Evaluate the company's overall corporate strategy.
-* [**Strategic Initiative:**](content/courses/strategy/company-analysis-project/initative)  Propose a strategic initiative to significantly improve the performance of a chosen business unit. Develop a plan to implement your recommended initiative.
+* [**Industry Analysis:**](/industry)  Analyze the key industries where your company operates.
+* [**Business Strategy Analysis:** ](/business) Examine the company's critical business units.
+* [**Corporate Strategy Analysis:** ](/corporate)  Evaluate the company's overall corporate strategy.
+* [**Strategic Initiative:**](/initative)  Propose a strategic initiative to significantly improve the performance of a chosen business unit. Develop a plan to implement your recommended initiative.
 
 **Team Up:** Form teams of 3-4 members.
 
